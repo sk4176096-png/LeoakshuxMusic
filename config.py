@@ -83,8 +83,8 @@ UPSTREAM_BRANCH = _clean_str(getenv("UPSTREAM_BRANCH"), "main")
 GIT_TOKEN = _clean_str(getenv("GIT_TOKEN"))  # needed if repo is private
 
 # ── Support links ──────────────────────────────────────────────────────────
-SUPPORT_CHANNEL = _clean_str(getenv("SUPPORT_CHANNEL"), "https://t.me/ItsMeVishalBots")
-SUPPORT_CHAT = _clean_str(getenv("SUPPORT_CHAT"), "https://t.me/ItsMeVishalBots")
+SUPPORT_CHANNEL = _clean_str(getenv("SUPPORT_CHANNEL"), "https://t.me/Leo000079")
+SUPPORT_CHAT = _clean_str(getenv("SUPPORT_CHAT"), "https://t.me/Leo000079")
 PRIVACY_LINK = _clean_str(getenv("PRIVACY_LINK"), SUPPORT_CHAT)
 
 # ── Assistant auto-leave ───────────────────────────────────────────────────────
