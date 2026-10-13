@@ -42,9 +42,9 @@ API_HASH = _clean_str(getenv("API_HASH"), "6586f0276c7748e54684719bdd247d90")
 BOT_TOKEN = _clean_str(getenv("BOT_TOKEN"))
 
 OWNER_ID = _clean_int(getenv("OWNER_ID"), 7044783841)
-OWNER_USERNAME = _clean_str(getenv("OWNER_USERNAME"), "ItsMeVishalBots")
-BOT_USERNAME = _clean_str(getenv("BOT_USERNAME"), "vaishaliTune_bot")
-BOT_NAME = _clean_str(getenv("BOT_NAME"), "≽ ^⎚ 𝘃𝗮𝗶𝘀𝗵𝗮𝗹𝗶 𝘅 𝗺𝘂𝘀𝗶𝗰 ⎚^ ≼")
+OWNER_USERNAME = _clean_str(getenv("OWNER_USERNAME"), "@Leo000079")
+BOT_USERNAME = _clean_str(getenv("BOT_USERNAME"), "@Brand_X_official_7bot")
+BOT_NAME = _clean_str(getenv("BOT_NAME"), "≽ ^⎚ Leo 𝘅 𝗺𝘂𝘀𝗶𝗰 ⎚^ ≼")
 ASSUSERNAME = _clean_str(getenv("ASSUSERNAME"), "≽ ^⎚ 𝗮𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 ⎚^ ≼")
 
 # ── Database & logging ────────────────────────────────────────────────────────
@@ -107,10 +107,10 @@ STRING5 = _clean_str(getenv("STRING_SESSION5"))
 
 # ── Media assets ──────────────────────────────────────────────────────────
 START_IMGS = [
-    "https://files.catbox.moe/a6sz5r.jpg",
-    "https://files.catbox.moe/53szdj.jpg",
-    "https://files.catbox.moe/h9dan0.jpg",
-    "https://files.catbox.moe/s8yhxr.jpg",
+    "https://files.catbox.moe/3a4e9d.jpg",
+    "https://files.catbox.moe/3a4e9d.jpg",
+    "https://files.catbox.moe/3a4e9d.jpg",
+    "https://files.catbox.moe/3a4e9d.jpg",
 ]
 STICKERS = [
     "CAACAgUAAyEFAASQje-AAAI92mkOFHmOlyKv0vEpoJE6S7ZInIuPAALbFQACSZmpVI0wvAnbSnk9HgQ",
